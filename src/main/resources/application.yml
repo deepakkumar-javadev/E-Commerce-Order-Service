@@ -4,8 +4,8 @@ spring:
 
   datasource:
     url: jdbc:mysql://localhost:3306/ecomorderdb
-    username: root
-    password: Deepak@87083
+    username: ****
+    password: **************
 
   jpa:
     hibernate:
